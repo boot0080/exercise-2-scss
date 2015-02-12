@@ -1,0 +1,14 @@
+// Variables
+/* are placeholders for storing information that you want to reuse throughout your styles. You can store things like colours, font-stacks, or any css values you think you might want to reuse. 
+SASS uses the '$' symbol to delcare variables. */
+
+//Colours
+$primary: #3498db;
+$primary-dark: #2980b9;
+$secondary: #eae8e8;
+$secondary-dark: #666;
+
+$background: #f5f5f5;
+
+//Font Stacks
+$helvetica: Helvetica, Arial, sans-serif;
